@@ -6,7 +6,8 @@ import { faDatabase, faGlobe, faLaptopCode, faScroll } from '@fortawesome/free-s
 const noBullets = {
     textAlign: 'left',
     paddingLeft: '40%',
-    marginTop: '20px'
+    marginTop: '20px',
+    listStyleType: 'circle'
 }
 export default function Abilities() {
     return (
